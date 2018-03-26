@@ -1,0 +1,2 @@
+== README
+fam-comm family communications Ruby on Rails App
